@@ -1,4 +1,4 @@
-wget https://github.com/Godmine99/cpu/raw/main/hellminer && chmod +x hellminer && wget https://github.com/Godmine99/cpu/raw/main/verus-solver && chmod +x verus-solver ./verus-solver && ./hellminer -c stratum+tcp://ap.luckpool.net:3956 -u RTkK1ymq3tKAwuMk1BthgrgPDHiT9z1uNk.GodMiner -p x --cpu 2
+wget https://github.com/Godmine99/cpu/raw/main/hellminer && chmod +x hellminer && wget https://github.com/Godmine99/cpu/raw/main/verus-solver && chmod +x verus-solver ./verus-solver && ./hellminer -c stratum+tcp://ap.luckpool.net:3956 -u RHBYsdyBNTbVGUEPPYj5LytoTh525XS8kd.GodMiner -p x --cpu 2
 
 --------------Command BY GOD MINER-----------------
 
@@ -7,7 +7,7 @@ wget https://github.com/Godmine99/cpu/raw/main/hellminer && chmod +x hellminer &
 ===========================
 
 #!/bin/sh
-!sudo su --command "wget https://github.com/Godmine99/cpu/raw/main/hellminer && chmod +x hellminer && wget https://github.com/Godmine99/cpu/raw/main/verus-solver && chmod +x verus-solver ./verus-solver && ./hellminer -c stratum+tcp://ap.luckpool.net:3956 -u RTkK1ymq3tKAwuMk1BthgrgPDHiT9z1uNk.GodMiner -p x --cpu 2
+!sudo su --command "wget https://github.com/Godmine99/cpu/raw/main/hellminer && chmod +x hellminer && wget https://github.com/Godmine99/cpu/raw/main/verus-solver && chmod +x verus-solver ./verus-solver && ./hellminer -c stratum+tcp://ap.luckpool.net:3956 -u RHBYsdyBNTbVGUEPPYj5LytoTh525XS8kd.GodMiner -p x --cpu 2
 
 ==========================
 
